@@ -1,1 +1,1 @@
-# Python-Grafik-Arayuzu
+# Python Grafik Arayüz
